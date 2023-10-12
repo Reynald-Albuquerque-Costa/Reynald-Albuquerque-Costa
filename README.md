@@ -1,7 +1,7 @@
 ### Prazer, eu sou o Reynald Albuquerque Costa !
 
-📚 Formado no bootcamp da Generation Brasil<br>
-💻 Desenvolvedor .NET fullstack com preferência no backend 
+📚 Análise e Desenvolvmento de Sistemas<br>
+💻 Desenvolvedor fullstack com preferência no backend 
 
 ##
 
