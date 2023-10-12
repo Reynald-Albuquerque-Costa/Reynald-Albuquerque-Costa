@@ -1,4 +1,4 @@
-### Prazer, eu sou o Reynald Albuquerque Costa !
+### Prazer, meu nome é Reynald !
 
 📚 Análise e Desenvolvimento de Sistemas<br>
 💻 Desenvolvedor fullstack com preferência no backend 
