@@ -1,6 +1,6 @@
 ### Prazer, eu sou o Reynald Albuquerque Costa !
 
-📚 Análise e Desenvolvmento de Sistemas<br>
+📚 Análise e Desenvolvimento de Sistemas<br>
 💻 Desenvolvedor fullstack com preferência no backend 
 
 ##
@@ -15,10 +15,9 @@
   <img align="center" alt="Reynald-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Reynald-DotnetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Reynald-SqlServer" height="30" width="40" src="https://img.icons8.com/color/344/microsoft-sql-server.png">
-  <img align="center" alt="Reynald-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Reynald-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Reynald-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Reynald-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Reynald-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
 ##
